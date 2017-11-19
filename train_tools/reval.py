@@ -1,5 +1,3 @@
-
-
 """Reval = re-eval. Re-evaluate saved detections."""
 
 import _init_paths
