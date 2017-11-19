@@ -1,11 +1,4 @@
-#!/usr/bin/env python
 
-# --------------------------------------------------------
-# Faster R-CNN
-# Copyright (c) 2015 Microsoft
-# Licensed under The MIT License [see LICENSE for details]
-# Written by Ross Girshick
-# --------------------------------------------------------
 
 """Train a Faster R-CNN network using alternating optimization.
 This tool implements the alternating optimization algorithm described in our
