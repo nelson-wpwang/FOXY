@@ -1,12 +1,3 @@
-#!/usr/bin/env python
-
-# --------------------------------------------------------
-# Fast/er/ R-CNN
-# Copyright (c) 2015 Microsoft
-# Licensed under The MIT License [see LICENSE for details]
-# Written by Ross Girshick
-# --------------------------------------------------------
-
 """Generate RPN proposals."""
 
 import _init_paths
