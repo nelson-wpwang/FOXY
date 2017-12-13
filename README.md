@@ -11,6 +11,7 @@ This is a machine learning project by CS542 at Boston University. In this projec
 
 4.To run the prediction part, just enter the prediction file and run the 542Projectgbr file. note the csv file and the python must be at the same directory.
 
+Tips:I have written a data_aug function in data_aug folder, because sometimes the data is not enough for us to train, you can consult it to aug your data.
 
 
 
